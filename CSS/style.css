@@ -1,0 +1,10 @@
+body {
+    background-color: #86E5FF;
+}
+hr {
+    border-style: inset;
+    border-color: black;
+    border-width: 1px;
+    height: 30%;
+    width: 80%;
+}
